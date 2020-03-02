@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/app.ico</file>
+        <file>images/new.png</file>
+        <file>images/save.png</file>
+        <file>images/saveas.png</file>
+        <file>images/open.png</file>
+        <file>images/toDraw.png</file>
+        <file>images/Tools.png</file>
+        <file>images/clear.png</file>
+        <file>images/color.png</file>
+        <file>images/polygon.png</file>
+        <file>images/curve.png</file>
+        <file>images/cut.png</file>
+        <file>images/ellipse.png</file>
+        <file>images/line.png</file>
+        <file>images/white.png</file>
+        <file>images/black.png</file>
+        <file>images/blue.png</file>
+        <file>images/green.png</file>
+        <file>images/orange.png</file>
+        <file>images/red.png</file>
+        <file>images/yellow.png</file>
+        <file>images/Width6.png</file>
+        <file>images/Width4.png</file>
+        <file>images/width1.png</file>
+        <file>images/width2.png</file>
+        <file>images/width5.png</file>
+        <file>images/width3.png</file>
+    </qresource>
+</RCC>
